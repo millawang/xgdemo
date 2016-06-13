@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/wangyiting/AndroidStudioProjects/xgdemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/wangyiting/AndroidStudioProjects/xgdemo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_14cea9d35159dbf9defb39720d268b7470496df2.jar" />
+    </item>
+    <item
+        jar="/Users/wangyiting/AndroidStudioProjects/xgdemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/wangyiting/AndroidStudioProjects/xgdemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_7040ce524ffbeff9b568a356dea2eaf3b5780ee1.jar" />
+    </item>
+    <item
+        jar="/Users/wangyiting/AndroidStudioProjects/xgdemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/wangyiting/AndroidStudioProjects/xgdemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_561ffcd04a891d63cbe433b98ea8c40ace82c860.jar" />
+    </item>
+    <item
+        jar="/Users/wangyiting/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/wangyiting/AndroidStudioProjects/xgdemo/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_7412850a166c9411b3aaf9407b41bcc6b1ada310.jar" />
+    </item>
+    <item
+        jar="/Users/wangyiting/AndroidStudioProjects/xgdemo/app/libs/wup-1.0.0.E-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d5a0917f8418b3726f89ae120182dfb6b884740d">
+        <dex dex="/Users/wangyiting/AndroidStudioProjects/xgdemo/app/build/intermediates/pre-dexed/debug/wup-1.0.0.E-SNAPSHOT_5f378101f6acd879bce01933f67983b6c65458f6.jar" />
+    </item>
+    <item
+        jar="/Users/wangyiting/AndroidStudioProjects/xgdemo/app/libs/Xg_sdk_v2.46_20160602_1638.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="32985de9bccdafb52efeb6e1b55a25b45559f4c6">
+        <dex dex="/Users/wangyiting/AndroidStudioProjects/xgdemo/app/build/intermediates/pre-dexed/debug/Xg_sdk_v2.46_20160602_1638_ead2d9bb611daad720510009a12a30463b5c06a6.jar" />
+    </item>
+    <item
+        jar="/Users/wangyiting/AndroidStudioProjects/xgdemo/app/libs/jg_filter_sdk_1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ebfc3cde0309ff27e9568757784eefefc71407a2">
+        <dex dex="/Users/wangyiting/AndroidStudioProjects/xgdemo/app/build/intermediates/pre-dexed/debug/jg_filter_sdk_1.1_8bcf908a40570d9130aaf95ab09a42dbc8db37a6.jar" />
+    </item>
+    <item
+        jar="/Users/wangyiting/AndroidStudioProjects/xgdemo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/wangyiting/AndroidStudioProjects/xgdemo/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_895408de1ca5ee5c5eca2de59875256797464ff0.jar" />
+    </item>
+    <item
+        jar="/Users/wangyiting/AndroidStudioProjects/xgdemo/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/wangyiting/AndroidStudioProjects/xgdemo/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_82ec8d444f15c15dc7f2f03cefa9705012523787.jar" />
+    </item>
+    <item
+        jar="/Users/wangyiting/AndroidStudioProjects/xgdemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/wangyiting/AndroidStudioProjects/xgdemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_5904506c582f5ff15c281521f47d26d89d7d391a.jar" />
+    </item>
+    <item
+        jar="/Users/wangyiting/AndroidStudioProjects/xgdemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/wangyiting/AndroidStudioProjects/xgdemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_907534870e6b72b233c52cc28aeb2e564b00dfcc.jar" />
+    </item>
+
+</items>
